@@ -1,7 +1,7 @@
 #########################################################
 #                    Substance Connector                #
 #########################################################
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.5)
 
 set(SUBSTANCE_CONNECTOR_MAJOR_VERSION 1 CACHE INTERNAL "Version")
 set(SUBSTANCE_CONNECTOR_MINOR_VERSION 2 CACHE INTERNAL "Version")
